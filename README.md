@@ -86,7 +86,3 @@ Final Year B.Sc. Computer Science
 🔗 GitHub: https://github.com/aafya2006913
 🔗 LinkedIn: (https://www.linkedin.com/in/aafya-sherin-0953b5334/)
 
-
-📧 Email: yourmail@example.com
-🔗 GitHub: https://github.com/yourusername
-🔗 LinkedIn: https://linkedin.com/in/yourprofile
